@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ProjetoRestaurante.API/ProjetoRestaurante.API.csproj" />
+  <Project Path="ProjetoRestaurante.Application/ProjetoRestaurante.Application.csproj" />
+  <Project Path="ProjetoRestaurante.Domain/ProjetoRestaurante.Domain.csproj" />
+  <Project Path="ProjetoRestaurante.Infrastructure/ProjetoRestaurante.Infrastructure.csproj" />
+  <Project Path="ProjetoRestaurante.Tests/ProjetoRestaurante.Tests.csproj" Id="07b6837f-d824-478c-97dd-ff6dec24e9c1" />
+</Solution>
